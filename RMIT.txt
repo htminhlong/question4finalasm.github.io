@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<html>
+<head>
+
+<img src="RMIT_banner.png" width="100%" height="100%">
+</head>
+<body>
+<h1 style="font-size:50px;"> RMIT University <h1> 
+<h2> One of Australia’s original educational institutions founded in 1887, RMIT University now enrols over 96,000 students each year, including more than 19,000 at postgraduate <br> level. 
+</h2>
+<h2> Our rankings</h>
+<ul>
+<li>5-Star QS ranking for excellence in higher education (QS World University Rankings 2015-2021)</li>
+<li>206th globally and 14th highest ranked university in Australia (QS World University Rankings 2022)</li>
+<li>3rd globally in the 2021 Times Higher Education Impact Rankings.</li>
+<li>8th in the world and 5th in Australia among universities less than 50 years old (QS Top 50 Under 50 index 2021)</li>
+</ul>
+<h1 style="font-size:50px;">Our Locations<h1> 
+<ul>
+<li> Australia
+	<ul>
+	<li>Melbourne city campus</li>
+	<li>Bundoora campus</li>
+ 	<li>Brunswick campus</li>
+	</ul>
+</li>
+<li>Vietnam
+	<ul>
+	<li>Saigon South campus</li>
+	<li>Hanoi campus</li>
+	</ul>
+</li>
+<li> Spain
+	<ul>
+	<li>Barcelona campus</li>
+	</ul>
+</li>
+</ul>
+<h1 style="font-size:50px;">Our Students<h1> 
+
+<div class="w3-container w3-blue" style="padding:128px 16px">
+  <div class="w3-row-padding">
+    <div class="w3-col m6">
+      <h3>What RMIT student will you be? Are you a high achiever motivated by grades or an explorer who loves adventure?</h3>
+      
+      <a href="https://www.rmit.edu.au/"Find out more></a>
+    </div>
+    <div class="w3-col m6">
+      <img src="RMIT_student.jpeg">
+    </div>
+  </div>
+</div>
+
+<table border=2px>
+  <tr style="background-color:RGB(230, 30, 42);">
+    <th>Time</th>
+    <th>Location</th>
+    <th>Address</th>
+  </tr>
+  <tr style="background-color:RGB(250, 200, 0);">
+    <td>8:30 - 10:00 January 16</td>
+    <td>2023	Saigon South Campus, Room 2.4.02</td>
+    <td>702 Nguyen Van Linh, District 7, Ho Chi Minh City</td>
+  </tr>
+  <tr style="background-color:RGB(250, 200, 0);">
+    <td>8:30 - 10:00 January 16</td>
+    <td>2023	Hanoi campus, Room 1.10.001</td>
+    <td>Handi Resco Building, 521 Kim Ma, Ba Dinh District, Hanoi</td>
+  </tr>
+</table>
+</body>
